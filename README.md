@@ -1,6 +1,6 @@
 # AI Diet Assistant
 
-Transform your health journey with a full-stack AI-powered diet and nutrition assistant. This project leverages modern web technologies and local LLMs to deliver personalized meal plans, nutrition analysis, and smart recommendations, all in a beautiful, user-friendly interface.
+Transform your health journey with a full-stack AI-powered diet and nutrition assistant. This project leverages modern web technologies and local LLMs to deliver personalized meal plans, nutrition analysis, and smart recommendations—all in a beautiful, user-friendly interface.
 
 ---
 
@@ -10,6 +10,30 @@ AI Diet Assistant is a full-stack application that helps users:
 - Get AI-powered meal suggestions and explanations (using local LLM via LM Studio)
 - Find nearby healthy restaurants and grocery stores (Google Places API)
 - Track progress and celebrate achievements
+
+---
+
+## 📸 Project Screenshots
+
+### 1. Login & Welcome Page
+![Login and Welcome](assets/screenshots/login.png)
+*Modern, user-friendly login page with social sign-in options and a welcoming introduction.*
+
+### 2. Dashboard Overview
+![Dashboard Overview](assets/screenshots/dashboard-overview.png)
+*Personalized dashboard showing calories, meals, daily goals, streaks, and a summary of today's meals.*
+
+### 3. Weekly Progress Tracking
+![Weekly Progress](assets/screenshots/weekly-progress.png)
+*Track your weekly calories, protein, meals completed, and hydration with a detailed daily breakdown.*
+
+### 4. Personalized Diet Plan
+![Personalized Diet Plan](assets/screenshots/diet-plan.png)
+*AI-generated daily meal plan with nutrition breakdown and a smart shopping list for easy meal prep.*
+
+### 5. Achievements & Rewards
+![Achievements](assets/screenshots/achievements.png)
+*Gamified achievements to motivate users, including streaks, protein goals, and hydration milestones.*
 
 ---
 
