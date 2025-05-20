@@ -1,6 +1,6 @@
 # AI Diet Assistant
 
-Transform your health journey with a full-stack AI-powered diet and nutrition assistant. This project leverages modern web technologies and local LLMs to deliver personalized meal plans, nutrition analysis, and smart recommendations—all in a beautiful, user-friendly interface.
+Transform your health journey with a full-stack AI-powered diet and nutrition assistant. This project leverages modern web technologies and local LLMs to deliver personalized meal plans, nutrition analysis, and smart recommendations, all in a beautiful, user-friendly interface.
 
 ---
 
